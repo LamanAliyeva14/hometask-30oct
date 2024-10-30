@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{B46529E8-1AB3-48F0-86BF-F92425B5F720}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Inheritance-DateTime-TimeSpan PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Inheritance-DateTime-TimeSpan/Program.cs">
+    <Files>
+      <File FileName="Inheritance-DateTime-TimeSpan/Program.cs" Line="36" Column="1" />
+      <File FileName="Inheritance-DateTime-TimeSpan/Product.cs" />
+      <File FileName="Inheritance-DateTime-TimeSpan/Book.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Inheritance-DateTime-TimeSpan" expanded="True">
+            <Node name="Inheritance-DateTime-TimeSpan" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
